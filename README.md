@@ -37,9 +37,9 @@ const aboutMe = {
   askMeAbout: ["web dev", "creative coding", "generative art", "UI/UX"],
   technologies: {
     frontEnd: ["React", "GSAP", "Next.js", "Anime.js", "WebGL"],
-    <!--creative: ["p5.js", "openFrameworks", "TouchDesigner", "Blender"],-->
     styling: ["CSS3", "Tailwind", "SCSS", "Styled Components"],
-    tools: ["Git", "Figma", "After Effects"]
+    animation: ["GSAP", "Framer Motion", "Anime.js"],
+    tools: ["Git", "Figma", "Sanity"]
   },
   currentFocus: "Exploring the boundaries between code and creativity",
   funFact: "I can turn coffee into interactive art ☕ → 🎨"
