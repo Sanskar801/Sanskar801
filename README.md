@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **Sanskar801/Sanskar801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,11 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Hi, I'm Sanskar Jain, a front-end developer and creative coder with a passion for bringing digital ideas to life. I specialize in creating interactive web experiences that not only look great but actually engage users and drive business results.
+-->
 
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Sanskar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Front-End+Developer;Creative+Coder;Digital+Artist;Welcome+to+my+creative+space!" alt="Typing SVG" />
