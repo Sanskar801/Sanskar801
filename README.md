@@ -95,10 +95,11 @@ const aboutMe = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanskar801&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar801&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar801&theme=tokyonight" alt="GitHub Streak"/>
 </div>
+-->
 
 ## 🎯 Featured Projects
 
@@ -129,7 +130,7 @@ Here are some of my favorite creative coding experiments:
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanskar801&theme=theme=tokyonight&exclude_days=Sun%2CSat&hide_border=true&area=true" width="100%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanskar801&theme=tokyonight-duo&exclude_days=Sun%2CSat" width="100%" alt="GitHub Streak" />
   </a>
 </div>
 
