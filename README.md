@@ -103,11 +103,14 @@ const aboutMe = {
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+  <a href="https://github.com/Sanskar801/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskar801&repo=project1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+  <a href="https://github.com/Sanskar801/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskar801&repo=project2&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/Sanskar801/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskar801&repo=project2&theme=tokyonight" />
   </a>
 </div>
 
@@ -144,7 +147,7 @@ Here are some of my favorite creative coding experiments:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sanskar801&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   
   <br><br>
   
