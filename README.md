@@ -22,7 +22,7 @@ Hi, I'm Sanskar Jain, a front-end developer and creative coder with a passion fo
 # Hey there! 👋 I'm Sanskar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Front-End+Developer;Creative+Coder;Digital+Artist;Welcome+to+my+creative+space!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Front-End+Developer;Creative+Coder;Digital+Artist;Welcome+to+my+coding+space!" alt="Typing SVG" />
 </div>
 
 ## 🎨 About Me
