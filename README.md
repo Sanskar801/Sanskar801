@@ -67,6 +67,7 @@ const aboutMe = {
   </table>
 </div>
 
+<!--
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -88,6 +89,7 @@ const aboutMe = {
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+-->
 
 ## 📊 GitHub Stats
 
@@ -115,6 +117,7 @@ const aboutMe = {
   </a>
 </div>
 
+<!--
 ## 🌟 Creative Showcase
 
 > *"Code is poetry written in logic"*
@@ -125,7 +128,7 @@ Here are some of my favorite creative coding experiments:
 - **🎵 Audio Visualizations** - Transforming sound into mesmerizing visual patterns  
 - **🌊 Interactive Installations** - Web-based experiences that respond to user input
 - **🎨 Shader Experiments** - Exploring the artistic potential of GPU programming
-
+-->
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -134,6 +137,7 @@ Here are some of my favorite creative coding experiments:
   </a>
 </div>
 
+<!--
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -146,7 +150,7 @@ Here are some of my favorite creative coding experiments:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yourprofile)
 
 </div>
-
+-->
 ---
 
 <div align="center">
