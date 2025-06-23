@@ -110,7 +110,7 @@ const aboutMe = {
     <img align="center" src="[https://github.com/Sanskar801/HeartLink-website](https://github.com/Sanskar801/HeartLink-website)?username=Sanskar801&repo=project1&theme=tokyonight" />
   </a>
   <a href="https://github.com/Sanskar801/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskar801&repo=project2&theme=tokyonight" />
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/](https://github.com/Sanskar801/My-Ace-Bazar)?username=Sanskar801&repo=project2&theme=tokyonight" />
   </a>
     <a href="https://github.com/Sanskar801/project2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskar801&repo=project2&theme=tokyonight" />
