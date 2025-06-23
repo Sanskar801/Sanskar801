@@ -27,7 +27,7 @@ Hi, I'm Sanskar Jain, a front-end developer and creative coder with a passion fo
 
 ## 🎨 About Me
 
-I'm a passionate **Front-End Developer** and **Creative Coder** who believes in the intersection of technology and art. I craft digital experiences that are not just functional, but also beautiful and engaging.
+I'm a passionate **Front-End Developer** who believes in the intersection of technology and art. I craft digital experiences that are not just functional, but also beautiful and engaging.
 
 ```javascript
 const aboutMe = {
@@ -45,7 +45,7 @@ const aboutMe = {
   funFact: "I can turn coffee into interactive art ☕ → 🎨"
 };
 ```
-
+<!--
 ## 🚀 What I Do
 
 <div align="center">
@@ -67,7 +67,7 @@ const aboutMe = {
   </table>
 </div>
 
-<!--
+
 ## 🛠️ Tech Stack
 
 <div align="center">
