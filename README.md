@@ -130,6 +130,7 @@ Here are some of my favorite creative coding experiments:
 - **🌊 Interactive Installations** - Web-based experiences that respond to user input
 - **🎨 Shader Experiments** - Exploring the artistic potential of GPU programming
 -->
+
 ## 📈 Contribution Graph
 
 <div align="center">
