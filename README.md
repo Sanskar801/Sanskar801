@@ -152,7 +152,7 @@ Here are some of my favorite creative coding experiments:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yourprofile)
 
 </div>
--->
+
 ---
 
 <div align="center">
@@ -164,3 +164,5 @@ Here are some of my favorite creative coding experiments:
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+-->
+**Thanks for stopping by!** ✨
