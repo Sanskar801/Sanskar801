@@ -102,7 +102,7 @@ const aboutMe = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar801&theme=tokyonight" alt="GitHub Streak"/>
 </div>
--->
+
 
 ## 🎯 Featured Projects
 
@@ -118,7 +118,7 @@ const aboutMe = {
   </a>
 </div>
 
-<!--
+
 ## 🌟 Creative Showcase
 
 > *"Code is poetry written in logic"*
@@ -129,7 +129,7 @@ Here are some of my favorite creative coding experiments:
 - **🎵 Audio Visualizations** - Transforming sound into mesmerizing visual patterns  
 - **🌊 Interactive Installations** - Web-based experiences that respond to user input
 - **🎨 Shader Experiments** - Exploring the artistic potential of GPU programming
--->
+
 
 ## 📈 Contribution Graph
 
@@ -138,6 +138,7 @@ Here are some of my favorite creative coding experiments:
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanskar801&theme=tokyonight-duo&exclude_days=Sun%2CSat" width="100%" alt="GitHub Streak" />
   </a>
 </div>
+-->
 
 <!--
 ## 🤝 Let's Connect!
@@ -164,6 +165,6 @@ Here are some of my favorite creative coding experiments:
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
--->
+
 **Thanks for stopping by!** ✨
 -->
