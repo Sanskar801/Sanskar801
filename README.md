@@ -28,19 +28,19 @@ Hi, I'm Sanskar Jain, a front-end developer and creative coder with a passion fo
 
 ## 🎨 About Me
 
-I'm a passionate **Front-End Developer** who believes in the intersection of technology and art. I craft digital experiences that are not just functional, but also beautiful and engaging.
+I'm a **Front-End Developer** who believes in the intersection of technology and art. I craft digital experiences that are not just functional, but also beautiful and engaging.
 
 ```javascript
 const aboutMe = {
   name: Sanskar Jain,
   role: "Front-End Developer & Creative Coder",
-  code: ["JavaScript", "TypeScript", "Python", "GLSL"],
-  askMeAbout: ["web dev", "creative coding", "generative art", "UI/UX"],
+  code: ["HTML/CSS", "JavaScript", "TypeScript"],
+  askMeAbout: ["Front-end dev", "creative coding", "generative art", "UI/UX"],
   technologies: {
-    frontEnd: ["React", "GSAP", "Next.js", "Anime.js", "WebGL"],
+    frontEnd: ["React Vanilla", "React(TS)"],
     styling: ["CSS3", "Tailwind", "SCSS", "Styled Components"],
-    animation: ["GSAP", "Framer Motion", "Anime.js"],
-    tools: ["Git", "Figma", "Sanity"]
+    animation: ["GSAP", "Framer Motion"],
+    tools: ["Git/GitHub", "Figma", "Redux", "Tanstack", "React Router", "Jest", "i18n", "Axios"]
   },
   currentFocus: "Exploring the boundaries between code and creativity",
   funFact: "I can turn coffee into interactive art ☕ → 🎨"
