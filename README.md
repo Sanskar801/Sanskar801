@@ -18,32 +18,34 @@ Here are some ideas to get you started:
 
 Hi, I'm Sanskar Jain, a front-end developer and creative coder with a passion for bringing digital ideas to life. I specialize in creating interactive web experiences that not only look great but actually engage users and drive business results.
 
-
-# Hey there! 👋 I'm Sanskar
 -->
+# Hey there! 👋 I'm Sanskar
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Creative+Developer;Welcome+to+my+coding+space!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Creative+DeveloperFull+Stack+Developer;System+Designer;Welcome+to+my+coding+space!" alt="Typing SVG" />
 </div>
 
 ## 🎨 About Me
 
-I'm a **Front-End Developer** who believes in the intersection of technology and art. I craft digital experiences that are not just functional, but also beautiful and engaging.
+I'm a **Full stack developer or System Designer** who believes in the intersection of technology and art. I craft digital experiences that are not just functional, but also beautiful and engaging.
 
 ```javascript
 const aboutMe = {
   name: Sanskar Jain,
-  role: "Front-End Developer & Creative Coder",
-  code: ["HTML/CSS", "JavaScript", "TypeScript"],
-  askMeAbout: ["Front-end dev", "creative coding", "generative art", "UI/UX"],
+  role: "Full stack Developer & System Designer",
+  code: ["Java", "HTML/CSS", "JavaScript", "TypeScript"],
+  askMeAbout: ["Full stack dev", "Java spring boot", "System design", "Creative coding"],
   technologies: {
-    frontEnd: ["React Vanilla", "React(TS)"],
+    frontEnd: ["React Vanilla", "React(TS)", "Next.js"],
+    backend: ["Java Spring boot", "Next.js"],
+    database: ["PostgreSQL", "MongoDB"],
     styling: ["CSS3", "Tailwind", "SCSS", "Styled Components"],
     animation: ["GSAP", "Framer Motion"],
-    tools: ["Git/GitHub", "Figma", "Redux", "Tanstack", "React Router", "Jest", "i18n", "Axios"]
+    tools: ["Git/GitHub", "Figma", "Redux", "Tanstack", "React Router", "Jest", "i18n", "Axios", "Docker", "Kafka", "Kubernates"]
   },
-  currentFocus: "Exploring the boundaries between code and creativity",
-  funFact: "I can turn coffee into interactive art ☕ → 🎨"
+  currentFocus: "Exploring the boundaries between code and sytem design",
+  funFact: "I can also turn coffee into interactive art ☕ → 🎨"
 };
 ```
 <!--
