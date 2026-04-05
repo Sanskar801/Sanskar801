@@ -34,7 +34,7 @@ I'm a **Full stack developer or System Designer** who believes in the intersecti
 const aboutMe = {
   name: Sanskar Jain,
   role: "Full stack Developer & System Designer",
-  code: ["Java", "HTML/CSS", "JavaScript", "TypeScript"],
+  code: ["Python", "HTML/CSS", "JavaScript", "TypeScript", "GO"],
   askMeAbout: ["Full stack dev", "Java spring boot", "System design", "Creative coding"],
   technologies: {
     frontEnd: ["HTML/CSS", "React Vanilla", "React(TS)"],
