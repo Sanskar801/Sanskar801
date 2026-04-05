@@ -37,8 +37,8 @@ const aboutMe = {
   code: ["Java", "HTML/CSS", "JavaScript", "TypeScript"],
   askMeAbout: ["Full stack dev", "Java spring boot", "System design", "Creative coding"],
   technologies: {
-    frontEnd: ["React Vanilla", "React(TS)", "Next.js"],
-    backend: ["Java Spring boot", "Next.js"],
+    frontEnd: ["HTML/CSS", "React Vanilla", "React(TS)"],
+    backend: ["Python", "Go"],
     database: ["PostgreSQL", "MongoDB"],
     styling: ["CSS3", "Tailwind", "SCSS", "Styled Components"],
     animation: ["GSAP", "Framer Motion"],
