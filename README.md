@@ -21,30 +21,31 @@ Hi, I'm Sanskar Jain, a front-end developer and creative coder with a passion fo
 -->
 # Hey there! 👋 I'm Sanskar
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Creative+Developer;Full+Stack+Developer;System+Designer;Welcome+to+my+coding+space!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&pause=2000&color=00FF9C&center=true&vCenter=true&width=940&lines=AI+Native+Backend+Developer;Go+%7C+Python+%7C+RAG+%7C+LLMs;Building+intelligent+systems" alt="Typing SVG" />
 </div>
 
 ## 🎨 About Me
 
-I'm a **AI Native Backend Developer and System Designer**
+I'm a **AI Native Backend Developer and System Designer** focused on building production-grade AI systems — RAG pipelines, LLM integrations, and backend infrastructure in Go and Python.
 
-```javascript
-const aboutMe = {
-  name: Sanskar Jain,
-  role: "AI Native Backend Developer & System Designer",
-  code: ["Python", "GO"],
-  askMeAbout: ["Machine Learning", "AI Agents", "System design", "Backend Development", "Maths],
-  technologies: {
-    backend: ["Python", "Go"],
-    frameworks: ["FastAPI", "Gin", "Fiber"],
-    database: ["PostgreSQL"],
-    tools: ["Git/GitHub", "Figma", "Docker", "Kafka"]
-  },
-  currentFocus: "Exploring the boundaries between code and sytem design",
-  funFact: "I can also turn coffee into interactive art ☕ → 🎨"
-};
+```python
+me = Developer(
+    name         = "Sanskar Jain",
+    role         = "AI Native Backend Developer",
+    languages    = ["Go", "Python", "SQL"],
+    ask_me_about = ["RAG Systems", "LLM Integrations", "Backend Architecture", "System Design", "Math & AI"],
+    backend      = ["Go", "Python"],
+    ai           = ["RAG Pipelines", "LLM APIs", "Vector Search", "Embeddings"],
+    frameworks   = ["FastAPI", "Fiber"],
+    databases    = ["PostgreSQL", "pgVector", "Redis"],
+    tools        = ["Git/GitHub", "Docker", "Postman", "Figma"],
+    current_focus= "Building AI-native backend systems that work in production",
+    direction    = "Math → AI Research → Building things that don't exist yet",
+)
+ 
+print(me)
+# <Developer Sanskar Jain | AI Native Backend Developer>
 ```
 <!--
 ## 🚀 What I Do
