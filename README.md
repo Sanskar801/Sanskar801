@@ -28,21 +28,19 @@ Hi, I'm Sanskar Jain, a front-end developer and creative coder with a passion fo
 
 ## 🎨 About Me
 
-I'm a **Full stack developer or System Designer** who believes in the intersection of technology and art. I craft digital experiences that are not just functional, but also beautiful and engaging.
+I'm a **AI Native Backend Developer and System Designer**
 
 ```javascript
 const aboutMe = {
   name: Sanskar Jain,
-  role: "Full stack Developer & System Designer",
-  code: ["Python", "HTML/CSS", "JavaScript", "TypeScript", "GO"],
-  askMeAbout: ["Full stack dev", "Java spring boot", "System design", "Creative coding"],
+  role: "AI Native Backend Developer & System Designer",
+  code: ["Python", "GO"],
+  askMeAbout: ["Machine Learning", "AI Agents", "System design", "Backend Development", "Maths],
   technologies: {
-    frontEnd: ["HTML/CSS", "React Vanilla", "React(TS)"],
     backend: ["Python", "Go"],
-    database: ["PostgreSQL", "MongoDB"],
-    styling: ["CSS3", "Tailwind", "SCSS", "Styled Components"],
-    animation: ["GSAP", "Framer Motion"],
-    tools: ["Git/GitHub", "Figma", "Redux", "Tanstack", "React Router", "Jest", "i18n", "Axios", "Docker", "Kafka", "Kubernates"]
+    frameworks: ["FastAPI", "Gin", "Fiber"],
+    database: ["PostgreSQL"],
+    tools: ["Git/GitHub", "Figma", "Docker", "Kafka"]
   },
   currentFocus: "Exploring the boundaries between code and sytem design",
   funFact: "I can also turn coffee into interactive art ☕ → 🎨"
