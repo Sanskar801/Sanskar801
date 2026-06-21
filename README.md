@@ -33,7 +33,7 @@ I'm a **AI Native Backend Developer and System Designer** focused on building pr
 me = Developer(
     name         = "Sanskar Jain",
     role         = "AI Native Backend Developer",
-    languages    = ["Go", "Python", "SQL"],
+    languages    = ["Go", "Python", "SQL", JavaScript/TypeScript],
     ask_me_about = ["RAG Systems", "LLM Integrations", "Backend Architecture", "System Design", "Math & AI"],
     backend      = ["Go", "Python"],
     ai           = ["RAG Pipelines", "LLM APIs", "Vector Search", "Embeddings"],
