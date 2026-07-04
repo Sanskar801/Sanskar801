@@ -22,17 +22,17 @@ Hi, I'm Sanskar Jain, a front-end developer and creative coder with a passion fo
 # Hey there! 👋 I'm Sanskar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&pause=2000&color=00FF9C&center=true&vCenter=true&width=940&lines=AI+Native+Backend+Developer;Go+%7C+Python+%7C+RAG+%7C+LLMs;Building+intelligent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&pause=2000&color=00FF9C&center=true&vCenter=true&width=940&lines=NLP+Engineer+and+Backend+Developer;Go+%7C+Python+%7C+RAG+%7C+LLMs;Building+intelligent+systems" alt="Typing SVG" />
 </div>
 
 ## 🎨 About Me
 
-I'm a **AI Native Backend Developer and System Designer** focused on building production-grade AI systems — RAG pipelines, LLM integrations, and backend infrastructure in Go and Python.
+I'm a **NLP Engineer and Backend Developer** focused on building production-grade AI systems — RAG pipelines, LLM integrations, and backend infrastructure in Go and Python.
 
 ```python
 me = Developer(
     name         = "Sanskar Jain",
-    role         = "AI Native Backend Developer",
+    role         = "NLP Engineer and Backend Developer",
     languages    = ["Go", "Python", "SQL", "JavaScript/TypeScript"],
     ask_me_about = ["RAG Systems", "LLM Integrations", "Backend Architecture", "System Design", "Math & AI"],
     backend      = ["Go", "Python"],
